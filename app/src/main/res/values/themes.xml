@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.imran_mamirov_hw_2_6" parent="Theme.MaterialComponents.NoActionBar.Bridge">
+
+    </style>
+
+    <style name="Theme.Imran_Mamirov_hw_2_6" parent="Base.Theme.imran_mamirov_hw_2_6" />
+</resources>
